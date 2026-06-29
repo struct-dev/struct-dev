@@ -1,16 +1,53 @@
-## Hi there 👋
+# Struct
+> Sites que ajudam pequenos negócios a transmitir confiança na internet.
 
-<!--
-**struct-dev/struct-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ajudamos pequenos negócios a conquistar uma presença profissional na internet.
 
-Here are some ideas to get you started:
+A Struct é um estúdio de desenvolvimento web focado em criar sites profissionais, rápidos e fáceis de usar para pequenos negócios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nosso objetivo é ajudar empresas locais a fortalecer sua presença na internet através de sites que transmitam confiança e facilitem o contato com seus clientes.
+
+---
+
+## O que desenvolvemos
+
+- Landing Pages
+- Sites institucionais
+- Portfólios
+- Sites personalizados para pequenos negócios
+
+---
+
+## Nossos princípios
+
+- Design moderno
+- Código organizado
+- Funciona em celulares e computadores
+- Navegação simples
+- Desenvolvimento pensado para facilitar futuras alterações
+
+---
+
+## Projetos
+
+| Projeto | Descrição | Demonstração |
+|----------|-----------|--------------|
+| Portfólio Struct | Site oficial da Struct | Em breve |
+| Barbearia | Template para barbearias | Em breve |
+| Hamburgueria | Template para hamburguerias | Em breve |
+| Academia | Template para academias | Em breve |
+| Clínica | Template para clínicas | Em breve |
+
+---
+
+## Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## Contato
+
+Em breve.
